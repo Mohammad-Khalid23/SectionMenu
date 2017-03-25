@@ -1,0 +1,43 @@
+.header{
+margin-bottom: 5px;
+background-color: lightblue;
+
+
+}
+.container,.header{
+width:800px;
+
+padding: 30px;
+margin : 0 auto;
+
+border: 2px solid black;
+} 
+ul{
+   
+    list-style-type: none;
+   
+}  
+li{
+    border: 1px solid blue;
+    display: inline;
+    margin-left: 3px;
+    padding: 10px;
+    background-color: lightblue;
+}
+li a,div a{
+
+    text-decoration: none;
+   
+}
+li:hover{
+
+background-color: lightgoldenrodyellow
+
+}
+.active{
+
+    background-color: lightgoldenrodyellow;
+}
+footer{
+    background-color: lightblue;
+}
